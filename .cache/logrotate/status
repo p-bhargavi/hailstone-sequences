@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/bhargavi/.cache/upstart/unity-settings-daemon.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/hud.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/unity7.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/at-spi2-registryd.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/dbus.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/gnome-keyring-gpg.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/unity-panel-service.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/ssh-agent.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/indicator-power.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/gnome-keyring-ssh.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/indicator-sound.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/update-notifier-release.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/unicast-local-avahi.log" 2017-5-2-23:52:56
+"/home/bhargavi/.cache/upstart/gnome-session-Unity.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/window-stack-bridge.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/im-config.log" 2017-5-5-20:11:4
+"/home/bhargavi/.cache/upstart/indicator-printers.log" 2017-5-5-20:11:4

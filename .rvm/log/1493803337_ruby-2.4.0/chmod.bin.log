@@ -1,0 +1,25 @@
+[2017-05-03 02:31:21] __rvm_set_executable
+__rvm_set_executable () 
+{ 
+    for __file in "$@";
+    do
+        [[ -x "${__file}" ]] || chmod +x "${__file}";
+    done
+}
+current path: /home/bhargavi/.rvm/src/ruby-2.4.0
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/bhargavi/.rvm/bin
+command(8): __rvm_set_executable /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/erb /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/gem /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/irb /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/rake /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/rdoc /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/ri /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/ruby
+++ for __file in '"$@"'
+++ [[ -x /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/erb ]]
+++ for __file in '"$@"'
+++ [[ -x /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/gem ]]
+++ for __file in '"$@"'
+++ [[ -x /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/irb ]]
+++ for __file in '"$@"'
+++ [[ -x /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/rake ]]
+++ for __file in '"$@"'
+++ [[ -x /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/rdoc ]]
+++ for __file in '"$@"'
+++ [[ -x /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/ri ]]
+++ for __file in '"$@"'
+++ [[ -x /home/bhargavi/.rvm/rubies/ruby-2.4.0/bin/ruby ]]
